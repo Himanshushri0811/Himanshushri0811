@@ -1,4 +1,4 @@
-<div align="center"><img src="assets/profile-banner.png" alt="Himanshu Shrivastava — developer profile banner" width="100%" />Hi, I'm Himanshu Shrivastava 👋
+<div align="center"><img src="profile-banner.png" alt="Himanshu Shrivastava — developer profile banner" width="100%" />Hi, I'm Himanshu Shrivastava 👋
 💻 Full-Stack Developer · BCA Student · AI Enthusiast
 I'm a passionate software developer focused on building practical, scalable web applications and AI-powered solutions.
 
