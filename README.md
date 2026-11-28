@@ -1,68 +1,48 @@
 <div align="center"><img src="profile-banner.png" alt="Himanshu Shrivastava — developer profile banner" width="100%" />Hi, I'm Himanshu Shrivastava 👋
-💻 Full-Stack Developer · BCA Student · AI Enthusiast
-I'm a passionate software developer focused on building practical, scalable web applications and AI-powered solutions.
-
-</div>🛠️ Tech Stack
+Full-Stack Developer · BCA Student · AI Enthusiast
+Building practical, scalable web applications and AI-powered solutions.
+</div>👨‍💻 About Me
+I'm a software developer focused on turning ideas into useful software products. I work across frontend and backend development, databases, APIs, and AI-powered application experiences.
+- 🎓 BCA Student
+- 💻 Full-Stack Development
+- 🤖 AI-powered applications and assistants
+- 🧩 Interested in production-ready software and collaborative engineering
+🛠️ Tech Stack
 <table>
-  <tr>
-    <td><strong>Frontend</strong></td>
-    <td>
-      <img alt="React.js" src="https://img.shields.io/badge/React.js-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-      <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-20232A?style=flat-square&logo=javascript&logoColor=F7DF1E" />
-      <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-20232A?style=flat-square&logo=typescript&logoColor=3178C6" />
-      <img alt="HTML" src="https://img.shields.io/badge/HTML-20232A?style=flat-square&logo=html5&logoColor=E34F26" />
-      <img alt="CSS" src="https://img.shields.io/badge/CSS-20232A?style=flat-square&logo=css3&logoColor=1572B6" />
-      <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-20232A?style=flat-square&logo=tailwindcss&logoColor=06B6D4" />
-    </td>
-  </tr>
-  <tr>
-    <td><strong>Backend</strong></td>
-    <td>
-      <img alt="Python" src="https://img.shields.io/badge/Python-20232A?style=flat-square&logo=python&logoColor=3776AB" />
-      <img alt="Django" src="https://img.shields.io/badge/Django-20232A?style=flat-square&logo=django&logoColor=44B78B" />
-      <img alt="Django REST Framework" src="https://img.shields.io/badge/Django_REST_Framework-20232A?style=flat-square&logo=django&logoColor=44B78B" />
-      <img alt="Node.js" src="https://img.shields.io/badge/Node.js-20232A?style=flat-square&logo=nodedotjs&logoColor=339933" />
-      <img alt="Express.js" src="https://img.shields.io/badge/Express.js-20232A?style=flat-square&logo=express&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td><strong>Databases</strong></td>
-    <td>
-      <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-20232A?style=flat-square&logo=mongodb&logoColor=47A248" />
-      <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-20232A?style=flat-square&logo=postgresql&logoColor=4169E1" />
-      <img alt="SQL" src="https://img.shields.io/badge/SQL-20232A?style=flat-square&logo=databricks&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td><strong>Tools</strong></td>
-    <td>
-      <img alt="Git" src="https://img.shields.io/badge/Git-20232A?style=flat-square&logo=git&logoColor=F05032" />
-      <img alt="GitHub" src="https://img.shields.io/badge/GitHub-20232A?style=flat-square&logo=github&logoColor=white" />
-      <img alt="Postman" src="https://img.shields.io/badge/Postman-20232A?style=flat-square&logo=postman&logoColor=FF6C37" />
-      <img alt="REST APIs" src="https://img.shields.io/badge/REST_APIs-20232A?style=flat-square&logo=fastapi&logoColor=009688" />
-    </td>
-  </tr>
+<tr><th align="left">Area</th><th align="left">Technologies</th></tr>
+<tr><td><strong>Frontend</strong></td><td>React.js · JavaScript · TypeScript · HTML · CSS · Tailwind CSS</td></tr>
+<tr><td><strong>Backend</strong></td><td>Python · Django · Django REST Framework · Node.js · Express.js</td></tr>
+<tr><td><strong>Databases</strong></td><td>MongoDB · PostgreSQL · SQL</td></tr>
+<tr><td><strong>Tools & APIs</strong></td><td>Git · GitHub · Postman · REST APIs</td></tr>
 </table>🚀 Projects
-<table>
-  <tr>
-    <td width="33%" valign="top">
-      <h3>FitMitra / Fitty AI</h3>
-      <p>An AI-powered fitness platform featuring workout planning, diet guidance, and an AI fitness assistant.</p>
-    </td>
-    <td width="33%" valign="top">
-      <h3>SupportPulse</h3>
-      <p>A full-stack ticketing and email support system.</p>
-    </td>
-    <td width="33%" valign="top">
-      <h3>ChikitsaAI</h3>
-      <p>An AI-focused healthcare project.</p>
-    </td>
-  </tr>
-</table>🎯 Currently Focused On
+A selection of projects across full-stack development, AI, SaaS, and automation. Project status and descriptions are kept conservative where details are still evolving.
+AI, Voice & Intelligent Applications
+Project	Overview
+FitMitra / Fitty AI	AI-powered fitness platform featuring workout planning, diet guidance, and an AI fitness assistant.
+Fitty AI Voice Coach	Voice-coach system focused on personalized workout generation and voice-based fitness assistance.
+LEO — Global Projects Assistant	AI voice assistant for the Global Projects context, with a knowledge-driven assistant workflow.
+Aarohi — AI Recruiter	AI recruiter product concept focused on recruitment workflows and an AI-assisted hiring experience.
+ChikitsaAI	AI-focused healthcare project.
+NewsDetector	Project exploring news/content detection.
+
+
+SaaS & Full-Stack Products
+Project	Overview
+Learnova	Tuition-management and EdTech SaaS ecosystem for classroom teaching, student progress, homework, tests, and parent updates.
+SupportPulse	Full-stack ticketing and email-support system.
+Instant Mechanic Dashboard	Dashboard project for an instant-mechanic service workflow.
+ShramSetu	Project focused on connecting work/service workflows.
+NogenAI	AI-oriented project.
+
+
+Some projects are actively evolving. Their repositories contain the implementation details and current status.
+
+🎯 Currently Focused On
 - Improving my Data Structures and Algorithms skills.
 - Building production-ready full-stack applications.
-- Learning software engineering best practices and contributing to collaborative development.
-📊 GitHub Overview
+- Applying software engineering best practices.
+- Contributing to collaborative development.
+📈 GitHub Overview
 <div align="center"><a href="https://github.com/Himanshushri0811">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=Himanshushri0811&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" alt="GitHub profile statistics" />
 </a>
